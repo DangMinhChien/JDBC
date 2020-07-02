@@ -4,7 +4,7 @@
   <artifactId>JDBC</artifactId>
   <version>1.0</version>
   <properties>
-		<mysql.version>8.0.13</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 	</properties>
 
 	<dependencies>
